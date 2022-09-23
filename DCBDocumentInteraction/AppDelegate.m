@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  DCBDocumentInteraction
 //
-//  Created by zoujing@gogpay.cn on 2020/2/4.
-//  Copyright © 2020 cn.gogpay.dcb. All rights reserved.
+//  Created by zoujing on 2020/2/4.
+//  Copyright © 2020 gleen. All rights reserved.
 //
 
 #import "AppDelegate.h"
